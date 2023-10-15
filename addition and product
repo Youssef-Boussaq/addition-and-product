@@ -1,0 +1,8 @@
+a = float(input("write the nember a ; "))
+b = float(input("write the nember b ; "))
+m = a*b
+if m>=0 :
+    print("a=",b,"b=",a)
+elif m<0:
+    print("a+b=",a+b,"a*b=",a*b)
+    
